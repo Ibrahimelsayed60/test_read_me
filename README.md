@@ -64,7 +64,7 @@
 
   - First image: 
 
-    <img src="Images\test.jpg" style="zoom:60%;" />
+    <img src="Images\test.jpg" style="zoom:50%;" />
 
   - Second image:
 
